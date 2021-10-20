@@ -62,7 +62,7 @@ wine = unknown
 location = unknown
 
 [Browser]
-locale = en_gb
+locale = en-us
 ''')
         f.close()
 # check if Lutris installs exist
